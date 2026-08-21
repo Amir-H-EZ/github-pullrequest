@@ -2,5 +2,5 @@ GitHub Pull Request Demo
 Version 1.1
 This change was added via a pull Request.
 config=null
-user=none
+user=admin
 retry=10
